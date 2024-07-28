@@ -7,15 +7,15 @@ I am an ambitious computer science engineer, an open-source enthusiast, Full Sta
 
 ## My Skills
 
-<img src="https://img.shields.io/badge/-ReactJS-grey?style=flat-square&logo=react" width="100" height="25" />  <img src="https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=node.js" width="100" height="25" />
-<img src="https://img.shields.io/badge/-Python-darkgrey?style=flat-square&logo=python" width="100" height="25" />
-<img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb" width="100" height="25" />
-<img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5" width="100" height="25" />
-<img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" width="90" height="25" />
-<img src="https://img.shields.io/badge/-C/C++-purple?style=flat-square&logo=cplusplus" width="90" height="25" />
-<img src="https://img.shields.io/badge/-OOPS-red?style=flat-square&logo=java" width="80" height="25" />
-<img src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git" width="80" height="25" />
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" width="100" height="25" />
+<img src="https://img.shields.io/badge/-ReactJS-grey?style=flat-square&logo=react" width="80" height="25" />  <img src="https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=node.js" width="80" height="25" />
+<img src="https://img.shields.io/badge/-Python-darkgrey?style=flat-square&logo=python" width="80" height="25" />
+<img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb" width="80" height="25" />
+<img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5" width="80" height="25" />
+<img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" width="70" height="25" />
+<img src="https://img.shields.io/badge/-C/C++-purple?style=flat-square&logo=cplusplus" width="70" height="25" />
+<img src="https://img.shields.io/badge/-OOPS-red?style=flat-square&logo=java" width="60" height="25" />
+<img src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git" width="60" height="25" />
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" width="80" height="25" />
 
 ## Connect Me On
 
