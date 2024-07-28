@@ -9,7 +9,7 @@ I am an ambitious computer science engineer, an open-source enthusiast, Full Sta
 
 <img src="https://img.shields.io/badge/-ReactJS-grey?style=flat-square&logo=react" width="80" height="25" />  <img src="https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=node.js" width="80" height="25" />
 <img src="https://img.shields.io/badge/-Python-darkgrey?style=flat-square&logo=python" width="80" height="25" />
-<img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb" width="80" height="25" />
+<img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=flat-square&logo=mongodb" width="90" height="25" />
 <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5" width="80" height="25" />
 <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" width="70" height="25" />
 <img src="https://img.shields.io/badge/-C/C++-purple?style=flat-square&logo=cplusplus" width="70" height="25" />
