@@ -1,6 +1,6 @@
 # Hey there, I'm Vinisha Verma 👋
 
-I am an ambitious computer science engineer, an open-source enthusiast, Full Stack Developer, and a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people, and learn new things. I find the idea of creating value for people and impacting the world through my work delightful.
+I am an ambitious computer science engineer, an open-source enthusiast, a curious person to learn new things every day and improve myself. I am always ready to have new experiences, meet new people, and learn new things. I find the idea of creating value for people and impacting the world through my work delightful.
   
 😊 I am currently a Intern at Essentia Soft Serv  
 🎓 Studying Computer Science Engineering at Banasthali Vidyapith
